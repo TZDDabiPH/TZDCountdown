@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-client.login("NTQwNjY5MDQzMTE2MzQzMjk2.DzUfMw.G2-6gZQk-iDbDlNgYE9hVNPyKcQ"); // your bot token goes in bracke "<token>"
+client.login("NTQwODUyNjI1MDMwMjUwNTA3.DzW8GA._zijCDVx11CCKjL5KqDF8Mp3uBM"); // your bot token goes in bracke "<token>"
 
 const fs = require('fs');
 const commands_path = require("path").join(__dirname, "commands");
